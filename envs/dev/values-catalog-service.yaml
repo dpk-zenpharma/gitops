@@ -3,7 +3,7 @@ replicaCount: 1
 # and matches the default URL expected by api-gateway
 fullnameOverride: drug-catalog-service
 image:
-  repository: 873135413040.dkr.ecr.us-east-1.amazonaws.com/drug-catalog-service
+  repository: 884945121336.dkr.ecr.us-east-1.amazonaws.com/drug-catalog-service
   tag: sha-9791f17
   pullPolicy: Always
 service:

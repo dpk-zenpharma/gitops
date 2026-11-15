@@ -8,7 +8,7 @@ spec:
 
   sourceRepos:
     # Replace '<your-username>' with your GitHub username or org name
-    - "https://github.com/zenpharma/gitops.git"
+    - "https://github.com/dpk-zenpharma/gitops.git"
 
   destinations:
     - server: https://kubernetes.default.svc
